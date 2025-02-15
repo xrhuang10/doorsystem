@@ -1,5 +1,5 @@
 <body>
-    <h1>🎮 Arduino-based Game with Password Display</h1>
+    <h1>🎮 DoorPass </h1>
     <p>An interactive Arduino-based game that, upon completion, displays my dorm room password.</p>
     
   <h2>🛠️ Hardware Components</h2>
